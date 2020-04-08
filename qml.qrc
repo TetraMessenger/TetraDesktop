@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RoundedButton.qml</file>
+        <file>RoundedImage.qml</file>
+        <file>WindowControls.qml</file>
+        <file>Story.qml</file>
+        <file>StoriesHorList.qml</file>
+        <file>ChatListItem.qml</file>
+    </qresource>
+</RCC>
